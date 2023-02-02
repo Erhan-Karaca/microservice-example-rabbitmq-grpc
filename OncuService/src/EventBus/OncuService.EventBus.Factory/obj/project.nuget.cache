@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "mf2W6es2y+nhldhGbZ1lIxkF6SkMovDtpweBKpfpbPyF1xqP6Tj4sClm3oIeHhF2NK6i8bVisF9RMB+1TSwCNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\OncuService.EventBus.Factory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Arge\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Arge\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\Arge\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\Arge\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\Arge\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Arge\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

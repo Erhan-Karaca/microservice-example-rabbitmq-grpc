@@ -1,0 +1,12 @@
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\bin\Debug\net6.0\OncuService.Common.deps.json
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\bin\Debug\net6.0\OncuService.Common.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\bin\Debug\net6.0\OncuService.Common.pdb
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.csproj.AssemblyReference.cache
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.AssemblyInfoInputs.cache
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.AssemblyInfo.cs
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.csproj.CoreCompileInputs.cache
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\refint\OncuService.Common.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\OncuService.Common.pdb
+C:\Users\Arge\Desktop\OncuService\OncuService\src\Common\OncuService.Common\obj\Debug\net6.0\ref\OncuService.Common.dll

@@ -1,0 +1,132 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Infrastructure\\OncuService.Api.Infrastructure.Persistence\\OncuService.Api.Infrastructure.Persistence.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Infrastructure\\OncuService.Api.Infrastructure.Persistence\\OncuService.Api.Infrastructure.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Infrastructure\\OncuService.Api.Infrastructure.Persistence\\OncuService.Api.Infrastructure.Persistence.csproj",
+        "projectName": "OncuService.Api.Application",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Infrastructure\\OncuService.Api.Infrastructure.Persistence\\OncuService.Api.Infrastructure.Persistence.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj",
+        "projectName": "OncuService.Common",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

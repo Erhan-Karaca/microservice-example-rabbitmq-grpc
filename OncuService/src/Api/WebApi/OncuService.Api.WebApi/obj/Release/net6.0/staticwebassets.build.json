@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2SynHlsLEw4UokUykJCu4H9obdXLqCEvTcIpwTNx7iQ=",
+  "Source": "OncuService.Api.WebApi",
+  "BasePath": "_content/OncuService.Api.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

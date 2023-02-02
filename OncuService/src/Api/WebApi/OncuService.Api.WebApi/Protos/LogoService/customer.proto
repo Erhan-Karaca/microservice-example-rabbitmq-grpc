@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "GrpcLogoServiceCustomer";
+
+package CustomerApi;
+
+service Customer {
+	rpc GetCustomerById(CustomerRequest) returns (CustomerResponse) {}
+}
+
+message CustomerRequest {
+	string id = 1;
+}
+
+message CustomerResponse {
+	string id = 1;
+	string name = 2;
+}

@@ -1,0 +1,457 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\WebApi\\OncuService.Api.WebApi\\OncuService.Api.WebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\OncuService.Api.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\OncuService.Api.Application.csproj",
+        "projectName": "OncuService.Api.Application",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\OncuService.Api.Application.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj"
+              },
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\OncuService.EventBus.Factory.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\OncuService.EventBus.Factory.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\WebApi\\OncuService.Api.WebApi\\OncuService.Api.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\WebApi\\OncuService.Api.WebApi\\OncuService.Api.WebApi.csproj",
+        "projectName": "OncuService.Api.WebApi",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\WebApi\\OncuService.Api.WebApi\\OncuService.Api.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\WebApi\\OncuService.Api.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\OncuService.Api.Application.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Api\\Core\\OncuService.Api.Application\\OncuService.Api.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.49.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.17.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj",
+        "projectName": "OncuService.Common",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\OncuService.Common.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\Common\\OncuService.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj",
+        "projectName": "OncuService.EventBus.Base",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\OncuService.EventBus.Factory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\OncuService.EventBus.Factory.csproj",
+        "projectName": "OncuService.EventBus.Factory",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\OncuService.EventBus.Factory.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Factory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj"
+              },
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.RabbitMQ\\OncuService.EventBus.RabbitMQ.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.RabbitMQ\\OncuService.EventBus.RabbitMQ.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.RabbitMQ\\OncuService.EventBus.RabbitMQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.RabbitMQ\\OncuService.EventBus.RabbitMQ.csproj",
+        "projectName": "OncuService.EventBus.RabbitMQ",
+        "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.RabbitMQ\\OncuService.EventBus.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\Arge\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.RabbitMQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Arge\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj": {
+                "projectPath": "C:\\Users\\Arge\\Desktop\\OncuService\\OncuService\\src\\EventBus\\OncuService.EventBus.Base\\OncuService.EventBus.Base.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

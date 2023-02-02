@@ -1,0 +1,17 @@
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.Factory.deps.json
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.Factory.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.Factory.pdb
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.Base.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.RabbitMQ.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.Base.pdb
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\bin\Debug\net6.0\OncuService.EventBus.RabbitMQ.pdb
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.csproj.AssemblyReference.cache
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.AssemblyInfo.cs
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.csproj.CopyComplete
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\refint\OncuService.EventBus.Factory.dll
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\OncuService.EventBus.Factory.pdb
+C:\Users\Arge\Desktop\OncuService\OncuService\src\EventBus\OncuService.EventBus.Factory\obj\Debug\net6.0\ref\OncuService.EventBus.Factory.dll
